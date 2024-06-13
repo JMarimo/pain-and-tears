@@ -1,0 +1,1 @@
+![CI](https://github.com/JMarimo/pain-and-tears/actions/workflows/web.yml/badge.svg)
